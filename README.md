@@ -1,7 +1,7 @@
 springseed2md
 =============
 
-Convert SpringSeed json files to plane markdown.
+Convert [Springseed](http://getspringseed.com/) json files to plane markdown.
 
 ## usage
 
